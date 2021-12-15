@@ -1,0 +1,17 @@
+.text_images_and_result img {
+    width: 150px;
+    height: 150px;
+}
+
+#total_result {
+    border-radius: 5px;
+    border-color: hotpink;
+    border: 5px;
+    border-width: 5px;
+    border-style: solid;
+    font-size: 30px;
+}
+
+.text_images_and_result {
+    border: 2px solid red;
+}

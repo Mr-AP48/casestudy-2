@@ -1,0 +1,18 @@
+Mobile Net:
+1. IPhone : 8/10 : Cell Phone
+2. SelfieStick/Tripod : 0/10 : Mike 
+3. Cell Phone (Carlvo) : 7/10 : Mobile phone 
+
+Google Lens:
+1. IPhone : 10/10 : IPhone 5s
+2. SelfieStick/Tripod : 10/10 : WeCool
+3. Cell Phone (Carlvo) : 10/10 : Cell Phone (Carlvo)
+
+MN : 8+0+7=15
+
+GL : 10+10+10=30
+
+I've tested 3 Images, and from it Google Lens has detected 3/3. So, I think Google Lens is more better than Mobilenet.
+
+I think Google Lens is more accurate than Mobile net
+I think Mobile Net is more accurate than Microsoft Azure
